@@ -1,1 +1,1 @@
-# foldersort
+# for sorting files using extensions
